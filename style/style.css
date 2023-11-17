@@ -1,0 +1,75 @@
+*{margin: 0px;
+padding: 0px;}
+
+.navbar{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: darkcyan;
+}
+li{
+    display: inline;
+    
+
+}
+li a{text-align: center;
+    display: inline;
+    padding: 5px;
+    background-color: cadetblue;
+    color: aliceblue;
+}
+
+
+.bakgimg{
+    background-image: url(../public/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+  
+.taste{
+    font-size: 50px;
+    color: darkslategray;
+    text-align: center;
+    letter-spacing: 4px;
+    position: relative;
+    top: 180px;
+    
+}
+h1::first-letter{
+    font-size: 85px;
+}
+
+    
+
+.and{
+    color: rgb(9, 25, 25);
+    text-align: center;
+    letter-spacing: 5px;
+    position: relative;
+    top: 155px;
+    font-size: 50px;
+}
+.time{
+    color: darkslategray;
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 50px;
+    position: relative;
+    top: 130px;
+}
+.bakery{
+    color: rgb(8, 29, 8);
+    text-align: center;
+    letter-spacing: 8px;
+    position: relative;
+    top: 175px;
+}
+.dot{
+    color:rgb(182, 218, 25) ;
+    text-align: center;
+    position: relative;
+    top:180px ;
+    letter-spacing: 7px;
+    font-weight: bolder;
+}
